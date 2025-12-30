@@ -60,6 +60,9 @@ Streamlit Deployment
 
 📊 Exploratory Data Analysis (EDA)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5456e9e5-9612-404d-af38-14b5bc968f3f" />
+
+
 Distribution plots for customer behavior
 
 Outlier detection
