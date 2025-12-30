@@ -154,10 +154,10 @@ Joblib
 
 ▶️ How to Run Locally
 # Step 1: Clone the repo
-git clone https://github.com/your-username/customer-segmentation.git
+[git clone](https://github.com/shashankphenomeno111/Customer-Segmentation-Clustering-ML-Project.git)
 
 # Step 2: Navigate to project
-cd customer-segmentation
+cd Customer-Segmentation-Clustering-ML-Project
 
 # Step 3: Install dependencies
 pip install -r requirements.txt
